@@ -34,6 +34,55 @@ You have the following choices regarding your name information:
 
 We take reasonable measures to protect the limited information we collect to ensure it is not accessed, disclosed, or altered without authorization.
 
+
+## File Access and Local Storage
+
+This Privacy Policy explains how [Your App Name] ("we," "our," or "us") handles file access and local storage for downloaded YouTube videos in our mobile application. By using our app, you consent to the practices described in this policy.
+
+### 1. Collection of Information
+
+We may collect and store the following information related to file access and local storage:
+
+- **Downloaded Videos:** Our app allows you to download YouTube videos for offline viewing. These videos are stored locally on your device in a dedicated storage location.
+
+- **Storage Permissions:** To enable video downloads, our app requests permission to access your device's local storage. This permission is used solely for the purpose of saving downloaded videos and managing app data.
+
+### 2. Use of Information
+
+The information collected related to file access and local storage is used exclusively for the following purposes:
+
+- **Offline Video Playback:** Downloaded videos are stored locally to allow you to watch them offline without an internet connection.
+
+- **App Functionality:** Access to local storage is necessary for the app's core functionality, including managing downloaded content and maintaining user preferences.
+
+### 3. Security
+
+We take the security and privacy of your stored data seriously. We implement reasonable security measures to protect against unauthorized access, alteration, disclosure, or destruction of data.
+
+### 4. Sharing of Information
+
+We do not share the downloaded videos or any information related to file access and local storage with third parties. Your downloaded videos are for your personal use within the app.
+
+### 5. Data Retention
+
+Downloaded videos are retained on your device until you choose to delete them through the app. You have full control over the videos stored locally.
+
+### 6. User Control
+
+You can manage permissions related to file access and local storage within your device's settings. You can also delete downloaded videos at any time through the app.
+
+### 7. Updates to this Privacy Policy
+
+We may update this Privacy Policy to reflect changes in our practices or legal requirements. Updates will be posted within the app, and the date of the latest revision will be indicated.
+
+### 8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data handling practices, please contact us at [Contact Email Address].
+
+By using our app, you agree to the terms and conditions outlined in this Privacy Policy.
+
+
+
 ## Contact Us
 
 If you have any questions or concerns about this Privacy Statement or our data practices, please contact us at developeryasin@gmail.com.
